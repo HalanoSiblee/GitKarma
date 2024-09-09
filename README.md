@@ -16,5 +16,4 @@ all we need is :<br>
 - A social platform
 
 # Request hiring
-currently Im looking for an open source corporation that hiring project manager<br>
 Email : HalanoSiblee@gmail.com
