@@ -15,20 +15,20 @@
      id="layer1"
      transform="translate(1.0431294,-30)">
     <circle
-       style="fill:#141414;fill-opacity:1;stroke:#000000;stroke-width:0.893947;stroke-linejoin:bevel"
+       style="fill:#141414;fill-opacity:1;stroke:#646464;stroke-width:0.893947;stroke-linejoin:bevel;stroke-opacity:1"
        id="path1"
        cx="25"
        cy="55"
        r="24.553026" />
     <circle
-       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.893947;stroke-linejoin:bevel"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#646464;stroke-width:0.893947;stroke-linejoin:bevel;stroke-opacity:1"
        id="circle1"
        cx="181.66025"
        cy="55"
        r="24.553026" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.08281;stroke-linejoin:bevel"
-       d="M 47.43324,51.187103 H 156.78286"
+       style="fill:none;stroke:#646464;stroke-width:1.07623;stroke-linejoin:bevel;stroke-opacity:1"
+       d="M 49.322541,51.187103 H 157.34563"
        id="path2" />
     <text
        xml:space="preserve"
@@ -56,23 +56,23 @@
          cy="204.77292"
          r="4.4076695" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
-         d="m 41.297249,162.06696 h 54.43512 v 42.98207"
+         style="fill:none;stroke:#646464;stroke-width:0.938669;stroke-linejoin:bevel;stroke-opacity:1"
+         d="m 41.281912,162.0216 h 54.483445 v 37.83793"
          id="path6" />
       <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
-         d="m 98.833235,51 v 65.11824 h -57.10938 v 45.95458 H 3.864 v 36.25778"
+         style="display:inline;fill:none;stroke:#646464;stroke-width:0.998947;stroke-linejoin:bevel;stroke-opacity:1"
+         d="m 98.832889,51 v 64.93619 H 41.683966 V 161.7623 H 3.7978969 v 36.15642"
          id="path4" />
     </g>
     <g
        id="layer3"
        style="display:inline">
       <path
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         style="fill:none;stroke:#646464;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
          d="m 106.98378,51 v 65.11824 h 57.10938 v 45.95458 h 37.85985 v 36.25778"
          id="path3" />
       <path
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         style="fill:none;stroke:#646464;stroke-width:1;stroke-linejoin:bevel;stroke-opacity:1"
          d="M 164.68962,162.06696 H 110.2545 v 42.98207"
          id="path5" />
       <circle
