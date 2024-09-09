@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="208.06477mm"
+   height="179.68059mm"
+   viewBox="0 0 208.06477 179.68059"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(1.0431294,-30)">
+    <circle
+       style="fill:#141414;fill-opacity:1;stroke:#000000;stroke-width:0.893947;stroke-linejoin:bevel"
+       id="path1"
+       cx="25"
+       cy="55"
+       r="24.553026" />
+    <circle
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.893947;stroke-linejoin:bevel"
+       id="circle1"
+       cx="181.66025"
+       cy="55"
+       r="24.553026" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.08281;stroke-linejoin:bevel"
+       d="M 47.43324,51.187103 H 156.78286"
+       id="path2" />
+    <text
+       xml:space="preserve"
+       style="font-size:16.9333px;letter-spacing:0.264583px;word-spacing:0.264583px;opacity:1;fill:#00ff80;fill-opacity:1;stroke:#141414;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="65.009026"
+       y="43.275955"
+       id="text12"><tspan
+         id="tspan12"
+         style="font-size:16.9333px;letter-spacing:0.264583px;word-spacing:0.264583px;fill:#00ff80;fill-opacity:1;stroke:#141414;stroke-width:0.5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="65.009026"
+         y="43.275955">Git Karma</tspan></text>
+    <g
+       id="layer2"
+       style="display:inline">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         id="circle12"
+         cx="3.8645401"
+         cy="202.80586"
+         r="4.4076695" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         id="path10"
+         cx="95.715218"
+         cy="204.77292"
+         r="4.4076695" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 41.297249,162.06696 h 54.43512 v 42.98207"
+         id="path6" />
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 98.833235,51 v 65.11824 h -57.10938 v 45.95458 H 3.864 v 36.25778"
+         id="path4" />
+    </g>
+    <g
+       id="layer3"
+       style="display:inline">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="m 106.98378,51 v 65.11824 h 57.10938 v 45.95458 h 37.85985 v 36.25778"
+         id="path3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         d="M 164.68962,162.06696 H 110.2545 v 42.98207"
+         id="path5" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         id="circle10"
+         cx="110.48055"
+         cy="204.77292"
+         r="4.4076695" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linejoin:bevel"
+         id="circle11"
+         cx="202.11397"
+         cy="202.80389"
+         r="4.4076695" />
+    </g>
+  </g>
+</svg>
